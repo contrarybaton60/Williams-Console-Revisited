@@ -61,11 +61,7 @@ William's Console: Revisited comes with a lot of QoL and cool features which can
 - Optifine capes
 - Shader support
 
-**Want to keep up with Development? Join the [ViolaFlower Discord](https://discord.gg/kprFeAn7Gq) for sneak peeks and updates on development!**
 
-## Special Thanks
-- devin, for making the [Adrenaline](https://modrinth.com/modpack/adrenaline) modpack
-- bowen, for making the [Re-Console](https://modrinth.com/modpack/legacy-minecraft) modpack, which led to the original version of William's Console, and what this modpack forked from
 
 ## Not your cup of tea? Thats fine! Consider checking out;
 - [Better Adventures++ LCE](https://modrinth.com/modpack/better-adventures++-lce) by FluffyPuppyKasey

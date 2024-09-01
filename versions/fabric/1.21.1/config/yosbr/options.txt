@@ -42,7 +42,7 @@ animatedCharacter:true
 classicCrafting:false
 vanillaTabs:true
 displayLegacyGamma:true
-legacyGamma:0.5
+legacyGamma:0.65
 smoothAnimatedCharacter:false
 smoothMovement:true
 legacyCreativeBlockPlacing:false

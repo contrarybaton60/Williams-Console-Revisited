@@ -1,0 +1,16 @@
+{
+  "testObject": {
+    "innerString": "bar",
+    "innerBool": true,
+    "innerInt": 3,
+    "innerDouble": 7.0
+  },
+  "testEnum": "foo",
+  "testString": "foo",
+  "testBool": true,
+  "testInt": 1,
+  "testDouble": 0.0,
+
+  "configNameDisplayColour": "#00DFFF",
+  "grayFormattingColour": "#BEC7D2"
+}

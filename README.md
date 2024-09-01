@@ -76,7 +76,7 @@ William's Console: Revisited comes with a lot of QoL and cool features which can
 <details>
 <summary>Credits</summary>
 
-**Want to keep up with Development? Join the [ViolaFlower Discord](https://discord.gg/kprFeAn7Gq) for sneak peeks and updates on development!**
+
 
 ## Special Thanks
 - devin, for making the [Adrenaline](https://modrinth.com/modpack/adrenaline) modpack
@@ -86,5 +86,8 @@ William's Console: Revisited comes with a lot of QoL and cool features which can
 ## Developers
 - omoso, Maintainer
 - William, Author, Maintainer
+
+**Want to keep up with Development? Join the [ViolaFlower Discord](https://discord.gg/kprFeAn7Gq) for sneak peeks and updates on development!**
+
 
 William's Console: Revisited is under the GNU General Public License version 3 (or later) license, [please refer to the license for more details.](https://www.gnu.org/licenses/gpl-3.0.html)

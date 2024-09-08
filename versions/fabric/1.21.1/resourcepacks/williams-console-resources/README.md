@@ -8,7 +8,7 @@ William's Console Resources is a resource pack that adds on optional content for
 
 # Features
 - A new panorama
-- BLue Button Highlights
+- Blue Button Highlights
 - LCE-styled Java Edition logo
 
 # Need a server?
